@@ -27,7 +27,12 @@ Si utilizas estos materiales en futuras investigaciones, por favor cita el traba
 
 > Iraheta-Avila, M. I. (2026). *Ciudades del Conocimiento: Metrópolis en Transición en un País Emergente (México, 2003-2018)*. Tesis Doctoral, Centro de Investigación y Docencia Económicas (CIDE).
 
+
+
 ## Bases de Datos
+Bases de datos y DOI (Zenodo): 
+Iraheta-Avila, M. I. (2026). Ciudades del Conocimiento: Metrópolis en Transición en un País Emergente (México, 2003-2018). Zenodo. https://doi.org/10.5281/zenodo.21108603
+
 
 Consejo Nacional de Población (CONAPO). (2018, 26 de enero). *Delimitación de Zonas Metropolitanas* [Archivo .csv]. https://conapo.segob.gob.mx/work/models/CONAPO/Datos_Abiertos/Delimitacion_ZM/ZM_2015.csv
 
